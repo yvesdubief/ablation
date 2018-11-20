@@ -12,3 +12,5 @@ Requirements:
   <li> python 3 (https://www.anaconda.com/download)</li>
   <li> skfmm:  pip install scikit-fmm</li>
   </ul>
+  
+Model is under development <a ref="here">https://github.com/yvesdubief/ablation/blob/master/Erosion-Model/erosion-model.ipynb</a>
